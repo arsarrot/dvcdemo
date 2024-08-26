@@ -1,0 +1,10 @@
+[core]
+    remote = numb
+['remote "drive_remote"']
+    url = https://drive.google.com/drive/u/0/folders/1Mq7LMAuYTcwAkGufiyAYO-MNlWAgKdTV
+['remote "dvcremote"']
+    url = https://drive.google.com/drive/u/0/folders/16L1lalHDgrdaAu4HdAWlZinaUA2AE5yy
+['remote "dvcr"']
+    url = C:\Users\USER\Jupyter\MLOPs\Data_Versioning
+['remote "numb"']
+    url = C:\Users\USER\Jupyter\MLOPs
